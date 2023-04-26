@@ -1,0 +1,9 @@
+@media screen and (min-width: 480px) {
+  .container {
+    max-width: 458px;
+  }
+
+  .hero-main-title {
+    font-size: 36px;
+  }
+}
